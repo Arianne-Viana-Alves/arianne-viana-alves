@@ -36,28 +36,38 @@ Na iniciação científica (bolsista CNPq) na **UFU**, construí e validei uma f
 
 ## Pesquisa
 <details open>
-<summary><b>IA e EEG para detecção precoce do TEA</b> <sub>— Mestrado · Computação Biomédica / MONAN · UFPE</sub></summary>
-<br>
-Mapeamento topográfico de EEG combinado com **deep transfer learning** para apoiar a detecção precoce do Transtorno do Espectro Autista.
- 
-`EEG` `Deep Learning` `Transfer Learning` `Processamento de Sinais`
- 
+<summary><b>IA e EEG para detecção precoce do TEA</b></summary>
+<blockquote>
+<b>Mestrado em Engenharia Biomédica</b><br>
+<sub>Computação Biomédica · MONAN · UFPE · atual</sub>
+<p>Mapeamento topográfico de EEG combinado com <b>deep transfer learning</b> para apoiar a detecção precoce do Transtorno do Espectro Autista.</p>
+<img src="https://img.shields.io/badge/EEG-D6EAF8?style=flat-square" alt="EEG" />
+<img src="https://img.shields.io/badge/Deep_Learning-D6EAF8?style=flat-square" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/Transfer_Learning-D6EAF8?style=flat-square" alt="Transfer Learning" />
+<img src="https://img.shields.io/badge/Processamento_de_Sinais-D6EAF8?style=flat-square" alt="Processamento de Sinais" />
+</blockquote>
 </details>
 <details>
-<summary><b>EEG quantitativo em pacientes críticos</b> <sub>— Iniciação Científica CNPq · BioLab/UFU · 2021–2025</sub></summary>
-<br>
-Desenvolvimento e validação de uma ferramenta em Python para processamento quantitativo de EEG de pacientes críticos em UTI, em colaboração com neurologistas do Hospital de Clínicas da UFU.
- 
-`Python` `EEG quantitativo` `UTI` `Validação clínica`
- 
+<summary><b>EEG quantitativo em pacientes críticos</b></summary>
+<blockquote>
+<b>Iniciação Científica · Bolsista CNPq</b><br>
+<sub>BioLab · UFU · 2021–2025</sub>
+<p>Desenvolvimento e validação de uma ferramenta em Python para processamento quantitativo de EEG de pacientes críticos em UTI, em colaboração com neurologistas do Hospital de Clínicas da UFU.</p>
+<img src="https://img.shields.io/badge/Python-D6EAF8?style=flat-square" alt="Python" />
+<img src="https://img.shields.io/badge/EEG_Quantitativo-D6EAF8?style=flat-square" alt="EEG Quantitativo" />
+<img src="https://img.shields.io/badge/UTI-D6EAF8?style=flat-square" alt="UTI" />
+<img src="https://img.shields.io/badge/Validação_Clínica-D6EAF8?style=flat-square" alt="Validação Clínica" />
+</blockquote>
 </details>
 <details>
-<summary><b>Engenharia Hospitalar</b> <sub>— Estágio · Divisão de Bioengenharia · HC-UFU/Ebserh · 2024–2025</sub></summary>
-<br>
-Apoio à infraestrutura hospitalar e ao desenvolvimento de software de gestão.
- 
-`Engenharia Clínica` `Software de Gestão`
- 
+<summary><b>Engenharia Hospitalar</b></summary>
+<blockquote>
+<b>Estágio · Divisão de Bioengenharia</b><br>
+<sub>HC-UFU/Ebserh · 2024–2025</sub>
+<p>Apoio à infraestrutura hospitalar e ao desenvolvimento de software de gestão.</p>
+<img src="https://img.shields.io/badge/Engenharia_Clínica-D6EAF8?style=flat-square" alt="Engenharia Clínica" />
+<img src="https://img.shields.io/badge/Software_de_Gestão-D6EAF8?style=flat-square" alt="Software de Gestão" />
+</blockquote>
 </details>
 
 ---
