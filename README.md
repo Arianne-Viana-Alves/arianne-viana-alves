@@ -40,7 +40,7 @@ Na iniciação científica (bolsista CNPq) na **UFU**, construí e validei uma f
 <blockquote>
 <b>Mestrado em Engenharia Biomédica</b><br>
 <sub>Computação Biomédica · MONAN · UFPE · atual</sub>
-<p>Mapeamento topográfico de EEG combinado com <b>deep transfer learning</b> para apoiar a detecção precoce do Transtorno do Espectro Autista.</p>
+<p>Mapeamento topográfico de EEG combinado com deep transfer learning para apoiar a detecção precoce do Transtorno do Espectro Autista.</p>
 <img src="https://img.shields.io/badge/EEG-D6EAF8?style=flat-square" alt="EEG" />
 <img src="https://img.shields.io/badge/Deep_Learning-D6EAF8?style=flat-square" alt="Deep Learning" />
 <img src="https://img.shields.io/badge/Transfer_Learning-D6EAF8?style=flat-square" alt="Transfer Learning" />
@@ -51,7 +51,7 @@ Na iniciação científica (bolsista CNPq) na **UFU**, construí e validei uma f
 <summary><b>EEG quantitativo em pacientes críticos</b></summary>
 <blockquote>
 <b>Iniciação Científica · Bolsista CNPq</b><br>
-<sub>BioLab · UFU · 2021–2025</sub>
+<sub>Cnpq · UFU · 2021–2025</sub>
 <p>Desenvolvimento e validação de uma ferramenta em Python para processamento quantitativo de EEG de pacientes críticos em UTI, em colaboração com neurologistas do Hospital de Clínicas da UFU.</p>
 <img src="https://img.shields.io/badge/Python-D6EAF8?style=flat-square" alt="Python" />
 <img src="https://img.shields.io/badge/EEG_Quantitativo-D6EAF8?style=flat-square" alt="EEG Quantitativo" />
