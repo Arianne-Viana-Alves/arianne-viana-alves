@@ -103,11 +103,4 @@ Apoio à infraestrutura hospitalar e ao desenvolvimento de software de gestão.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Arianne-Viana-Alves&show_icons=true&hide_border=true&hide_rank=true&title_color=1B4F72&icon_color=2E86AB&locale=pt-br" alt="Estatísticas do GitHub" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianne-Viana-Alves&layout=compact&hide_border=true&title_color=1B4F72&locale=pt-br" alt="Linguagens mais usadas" />
 <img src="https://streak-stats.demolab.com?user=Arianne-Viana-Alves&hide_border=true&ring=1B4F72&fire=2E86AB&currStreakLabel=1B4F72&locale=pt_BR" alt="Sequência de contribuições" />
-<br><br>
- 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-  <img alt="Contribuições em 3D" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
-</picture>
-<img src="https://komarev.com/ghpvc/?username=Arianne-Viana-Alves&color=1B4F72&style=flat-square&label=Visitas+ao+perfil" alt="Visitas ao perfil" />
 </div>
