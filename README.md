@@ -8,7 +8,7 @@
 <a href="[http://lattes.cnpq.br/SEU-ID-LATTES](http://lattes.cnpq.br/4126477932893522)"><img src="https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
 <a href="[https://orcid.org/SEU-ORCID](https://orcid.org/0000-0002-0645-0980)"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 <a href="[https://scholar.google.com/citations?user=SEU-ID](https://scholar.google.com/citations?view_op=list_works&hl=pt-BR&user=SWvSzBUAAAAJ)"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-href="mailto:ariannevian@icloud.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="E-mail" /></a>
+<a href="mailto:ariannevian@icloud.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="E-mail" /></a>
 
 </div>
 
@@ -106,8 +106,8 @@ Apoio à infraestrutura hospitalar e ao desenvolvimento de software de gestão.
 <br><br>
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arianne-Viana-Alves/Arianne-Viana-Alves/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Animação de contribuições" src="https://raw.githubusercontent.com/Arianne-Viana-Alves/Arianne-Viana-Alves/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+  <img alt="Contribuições em 3D" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
 </picture>
 <img src="https://komarev.com/ghpvc/?username=Arianne-Viana-Alves&color=1B4F72&style=flat-square&label=Visitas+ao+perfil" alt="Visitas ao perfil" />
 </div>
