@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=2E86AB&center=true&vCenter=true&width=650&lines=Engenheira+Biom%C3%A9dica;Mestranda+em+Engenharia+Biom%C3%A9dica+%7C+UFPE;IA+aplicada+a+sinais+de+EEG;Graduanda+em+ADS+%7C+UFCA" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/arianne-viana-943a88303"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="[http://lattes.cnpq.br/SEU-ID-LATTES](http://lattes.cnpq.br/4126477932893522)"><img src="https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logo=bookstack&logoColor=white" /></a>
-<a href="[https://orcid.org/SEU-ORCID](https://orcid.org/0000-0002-0645-0980)"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
-<a href="[https://scholar.google.com/citations?user=SEU-ID](https://scholar.google.com/citations?view_op=list_works&hl=pt-BR&user=SWvSzBUAAAAJ)"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="http://lattes.cnpq.br/4126477932893522"><img src="https://img.shields.io/badge/Lattes-005A9C?style=for-the-badge&logo=bookstack&logoColor=white" alt="Lattes" /></a>
+<a href="https://orcid.org/0000-0002-0645-0980"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
+<a href="https://scholar.google.com/citations?user=SWvSzBUAAAAJ&hl=pt-BR"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 <a href="mailto:ariannevian@icloud.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=icloud&logoColor=white" alt="E-mail" /></a>
 
 </div>
@@ -16,12 +16,12 @@
 
 ## Sobre mim
 
-Engenheira Biomédica pela **UFU**, mestranda em Engenharia Biomédica pela **UFPE** e graduanda em Análise e Desenvolvimento de Sistemas pela **UFCA**. Sou pesquisadora no grupo de **Computação Biomédica da UFPE** e integro o **MONAN**, onde desenvolvo pesquisa em Inteligência Artificial aplicada ao Transtorno do Espectro Autista (TEA), com foco em processamento de sinais de EEG e aprendizado de máquina.
+Engenheira Biomédica pela UFU, mestranda em Engenharia Biomédica pela UFPE e graduanda em Análise e Desenvolvimento de Sistemas pela UFCA. Sou pesquisadora com foco em processamento de sinais de EEG.
 
-Na iniciação científica (bolsista CNPq) na **UFU**, construí e validei uma ferramenta em Python para processamento quantitativo de EEG em pacientes críticos de UTI, em colaboração direta com neurologistas do Hospital de Clínicas. No estágio em Engenharia Hospitalar na Divisão de Bioengenharia do **HC-UFU/Ebserh**, atuei da infraestrutura hospitalar ao desenvolvimento de software de gestão.
+Na iniciação científica (bolsista CNPq) na UFU, construí e validei uma ferramenta em Python para processamento quantitativo de EEG em pacientes críticos de UTI, em colaboração direta com neurologistas do Hospital de Clínicas. No estágio em Engenharia Hospitalar na Divisão de Bioengenharia do HC-UFU/Ebserh, atuei da infraestrutura hospitalar ao desenvolvimento de software de gestão.
 
 > [!NOTE]
-> **Objetivo:** unir pesquisa e prática tecnológica em saúde, desenvolvendo e aplicando sistemas voltados ao cotidiano hospitalar.
+> Objetivo: unir pesquisa e prática tecnológica em saúde, desenvolvendo e aplicando sistemas voltados ao cotidiano hospitalar.
 
 **Áreas de interesse**
 
