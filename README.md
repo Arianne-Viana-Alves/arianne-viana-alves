@@ -36,18 +36,17 @@ Na iniciação científica (bolsista CNPq) na UFU, construí e validei uma ferra
 
 ## Pesquisa
 <details open>
-<summary><b>IA e EEG </b></summary>
+<summary><b>IA e EEG</b></summary>
 <blockquote>
 <b>Mestrado em Engenharia Biomédica</b><br>
 <sub>Computação Biomédica · MONAN · UFPE · atual</sub>
- 
+<br><br>
 <img src="https://img.shields.io/badge/EEG-D6EAF8?style=flat-square" alt="EEG" />
 <img src="https://img.shields.io/badge/Deep_Learning-D6EAF8?style=flat-square" alt="Deep Learning" />
 <img src="https://img.shields.io/badge/Transfer_Learning-D6EAF8?style=flat-square" alt="Transfer Learning" />
 <img src="https://img.shields.io/badge/Processamento_de_Sinais-D6EAF8?style=flat-square" alt="Processamento de Sinais" />
 </blockquote>
 </details>
-<details>
 <summary><b>EEG quantitativo em pacientes críticos</b></summary>
 <blockquote>
 <b>Iniciação Científica · Bolsista CNPq</b><br>
